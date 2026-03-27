@@ -1,3 +1,3 @@
 # WebIDE-BZY
 
-<webide-bzy.github.io>
+<https://webide-bzy.github.io>
